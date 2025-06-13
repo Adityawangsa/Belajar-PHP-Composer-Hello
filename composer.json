@@ -20,6 +20,6 @@
     "require": {
         "php": ">=8.0",
         "adityawangsaa/addlibrary1": "1.0.0",
-        "monolog/monolog": "3.9.9"
+        "monolog/monolog": "3.9.0"
     }
 }

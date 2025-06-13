@@ -1,0 +1,19 @@
+{
+    "name": "adityawangsaa/addlibrary1",
+    "description": "Belajar menambahkan library",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Adityawangsaa\\Addlibrary1\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "M. Syaikhul Ma'arif Adityawangsa",
+            "email": "adityawangsaa@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.0"
+    }
+}
